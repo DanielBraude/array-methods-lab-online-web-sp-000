@@ -1,5 +1,6 @@
 def using_include(array, element)
-array.include
+array.include["wow", "I", "am", "
+really", "learning", "arrays!"]
 end
 
 def using_sort(array)
